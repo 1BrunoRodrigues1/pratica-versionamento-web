@@ -1,0 +1,5 @@
+b9ae2d5 (HEAD -> master) docs: documenta tabela de commits do exercício
+d141ee4 docs: registra exemplo de sugestão de commit por IA
+95ecf17 feat: adiciona estilos e conteúdo à página
+0bb4ed1 feat: cria estrutura HTML da página
+80d9ae8 docs: adiciona README inicial

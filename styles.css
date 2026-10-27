@@ -1,0 +1,23 @@
+:root {
+  color-scheme: light;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #1f2937;
+  background: #f3f6fb;
+}
+
+* { box-sizing: border-box; }
+body { margin: 0; line-height: 1.6; }
+header {
+  padding: 3rem 1.5rem;
+  text-align: center;
+  color: white;
+  background: linear-gradient(135deg, #173b6c, #2878a8);
+}
+header h1 { margin: 0 0 .5rem; }
+main { width: min(900px, 92%); margin: 2rem auto; }
+section {
+  padding: 1.5rem;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 18px rgb(15 23 42 / 8%);
+}
