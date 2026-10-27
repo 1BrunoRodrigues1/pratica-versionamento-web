@@ -58,7 +58,7 @@ O arquivo `HISTORICO_COMMITS.md` apresenta uma tabela de referência para docume
 
 ## Repositório remoto
 
-**Link do GitHub:** inserir aqui a URL do repositório publicado.
+(https://github.com/1BrunoRodrigues1/pratica-versionamento-web)
 
 ## Autores
 
